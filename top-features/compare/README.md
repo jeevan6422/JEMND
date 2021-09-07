@@ -1,5 +1,5 @@
 # Compare
-
+Metadata file
 Compare instance snapshots, data, and metadata in the same view. Following a data loss, Vault compares various snapshots to determine the timing and root cause indicators. Vault’s compare feature delivers powerful capabilities that allow admins to quickly figure out what happened and estimate the impact.
 
 1. Significantly reduce recovery time.
